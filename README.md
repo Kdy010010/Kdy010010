@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Kdy010010
-- 👀 I’m interested in electron
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing
-  
+나는 미친놈이다
 
 <!---
 Kdy010010/Kdy010010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
